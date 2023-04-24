@@ -54,7 +54,7 @@ const Interview = () => {
               channel="youtube"
               autoplay
               isOpen={isOpen}
-              videoId="uSDnTokN5PM"
+              videoId="bQ8Me-GKVpo"
               onClose={() => setOpen(false)}
             />
           </div>
